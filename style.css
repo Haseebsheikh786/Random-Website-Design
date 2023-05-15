@@ -1,0 +1,58 @@
+html {
+    font-size: 100%;
+}
+
+#fin {
+    margin-top: 5rem;
+}
+
+#fin h1 {
+    text-align: center;
+    margin: 2rem;
+}
+
+#fin p {
+    text-align: center;
+    margin: 2rem;
+}
+
+#find p {
+    font-size: 1.5rem;
+}
+
+.card {
+    font-size: 1.5rem;
+    text-decoration: underline;
+}
+
+.mydiv {
+    text-align: center;
+}
+
+.special {
+    background-color: rgb(208, 221, 217);
+}
+
+.row img {
+    display: block;
+}
+
+.row span {
+    font-weight: 700;
+    text-decoration: underline;
+}
+
+.foot {
+    background-color: rgb(26, 26, 117);
+    color: white;
+}
+
+.FOOT {
+    background-color: rgb(15, 15, 100);
+    color: white;
+}
+
+
+.FOOT a {
+    color: white;
+}
